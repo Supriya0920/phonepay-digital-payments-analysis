@@ -60,8 +60,8 @@ Folder Structure
 PhonePe Analysis Project
 ├── phonepe_analysis.ipynb # Main analysis notebook
 ├── phonepe-pulse_raw-data.xlsx # Source dataset
-├── 📁 outputs/ # CSV results (ATV, user-population ratio, etc.)
-├── 📁 plots/ # All generated plots and charts
+├── outputs/ # CSV results (ATV, user-population ratio, etc.)
+├── plots/ # All generated plots and charts
 └── README.md # Project documentation
 
 Tools & Technologies
