@@ -20,28 +20,34 @@ The data was provided in a multi-sheet Excel file containing:
 | *District_Txn and Users* | Transaction and user data at district level |
 | *District_Demographics* | Population, area, density, and other demographic details |
 Tasks & Analysis Performed
+
 Task 1 – Data Loading & Understanding*
 - Loaded all datasets from Excel using pandas.
 - Checked structure, statistics, data types, and missing values.
 - Counted total states and districts; identified the state with most districts.
+
 Task 2 – Exploratory Data Analysis (EDA)*
 - Transaction trends over years and quarters.
 - Top 5 and bottom 5 states by transaction volume and average transaction value (ATV).
 - Device brand usage distribution.
 - District with highest population per state (visualized via bar chart).
 - App usage trends by state and time period.
+
 Task 3 – Data Quality Checks*
 - Verified data consistency between *state* and *district* level datasets.
 - Detected and highlighted mismatches in totals.
+
 Task 4 – Data Merging & Advanced Analysis*
 - Merged demographic and transaction datasets.
 - Calculated *user-to-population ratio* for each state.
 - Correlated *population density* with transaction volume.
 - Computed *average transaction amount per user* and device usage ratios.
+
 Task 5 – Data Visualization*
 - Line plots for transaction trends.
 - Pie charts for transaction type distributions.
 - Column charts and scatter plots for population & correlation analysis.
+
 Task 6 – Insights and Conclusions*
 Key findings:
 - States like *Maharashtra, Karnataka, and Andhra Pradesh* lead in total transactions and digital penetration.
