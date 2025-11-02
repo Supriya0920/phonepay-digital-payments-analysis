@@ -1,0 +1,733 @@
+District,Code
+Nicobars,AN01
+North And Middle Andaman,AN02
+South Andaman,AN03
+Anantapur,AP01
+Chittoor,AP02
+East Godavari,AP03
+Guntur,AP04
+Krishna,AP05
+Kurnool,AP06
+Prakasam,AP07
+Spsr Nellore,AP08
+Srikakulam,AP09
+Visakhapatnam,AP10
+Vizianagaram,AP11
+West Godavari,AP12
+Ysr,AP13
+Anjaw,AR01
+Changlang,AR02
+Dibang Valley,AR21
+East Kameng,AR03
+East Siang,AR04
+Kamle,AR05
+Kra Daadi,AR06
+Kurung Kumey,AR07
+Lepa Rada,AR08
+Lohit,AR09
+Longding,AR10
+Lower Dibang Valley,AR11
+Lower Siang,AR12
+Lower Subansiri,AR13
+Namsai,AR14
+Pakke Kessang,AR15
+Papum Pare,AR16
+Shi Yomi,AR17
+Siang,AR18
+Tawang,AR19
+Tirap,AR20
+Upper Siang,AR22
+Upper Subansiri,AR23
+West Kameng,AR24
+West Siang,AR25
+Baksa,AS02
+Barpeta,AS03
+Biswanath,AS04
+Bongaigaon,AS05
+Cachar,AS06
+Charaideo,AS07
+Chirang,AS08
+Darrang,AS09
+Dhemaji,AS10
+Dhubri,AS11
+Dibrugarh,AS12
+Dima Hasao,AS13
+Goalpara,AS14
+Golaghat,AS15
+Hailakandi,AS16
+Hojai,AS17
+Jorhat,AS18
+Kamrup,AS19
+Kamrup Metropolitan,AS20
+Karbi Anglong,AS21
+Karimganj,AS22
+Kokrajhar,AS23
+Lakhimpur,AS24
+Majuli,AS25
+Marigaon,AS26
+Nagaon,AS27
+Nalbari,AS28
+Sivasagar,AS29
+Sonitpur,AS30
+South Salmara Mancachar,AS31
+Tinsukia,AS32
+Udalguri,AS33
+West Karbi Anglong,AS34
+Araria,BR01
+Arwal,BR02
+Aurangabad,BR03
+Banka,BR04
+Begusarai,BR05
+Bhagalpur,BR06
+Bhojpur,BR07
+Buxar,BR08
+Darbhanga,BR09
+Gaya,BR11
+Gopalganj,BR12
+Jamui,BR13
+Jehanabad,BR14
+Kaimur Bhabua,BR15
+Katihar,BR16
+Khagaria,BR17
+Kishanganj,BR18
+Lakhisarai,BR19
+Madhepura,BR20
+Madhubani,BR21
+Munger,BR22
+Muzaffarpur,BR23
+Nalanda,BR24
+Nawada,BR25
+Pashchim Champaran,BR38
+Patna,BR26
+Purbi Champaran,BR10
+Purnia,BR27
+Rohtas,BR28
+Saharsa,BR29
+Samastipur,BR30
+Saran,BR31
+Sheikhpura,BR32
+Sheohar,BR33
+Sitamarhi,BR34
+Siwan,BR35
+Supaul,BR36
+Vaishali,BR37
+Chandigarh,CH01
+Balod,CG01
+Baloda Bazar,CG02
+Balrampur,CG03
+Bastar,CG04
+Bemetara,CG05
+Bijapur,CG06
+Bilaspur,CG07
+Dantewada,CG08
+Dhamtari,CG09
+Durg,CG10
+Gariyaband,CG11
+Janjgir Champa,CG13
+Jashpur,CG14
+Kabirdham,CG15
+Kanker,CG16
+Kondagaon,CG17
+Korba,CG18
+Korea,CG19
+Mahasamund,CG20
+Mungeli,CG21
+Narayanpur,CG22
+Raigarh,CG23
+Raipur,CG24
+Rajnandgaon,CG25
+Sukma,CG26
+Surajpur,CG27
+Surguja,CG28
+Dadra And Nagar Haveli,DD01
+Daman,DD02
+Diu,DD03
+Central,DL01
+East,DL02
+New Delhi,DL03
+North,DL04
+North East,DL05
+North West,DL06
+Shahdara,DL07
+South,DL08
+South East Delhi,DL09
+South West,DL10
+West,DL11
+North Goa,GA01
+South Goa,GA02
+Ahmadabad,GJ01
+Amreli,GJ02
+Anand,GJ03
+Aravallis,GJ04
+Banas Kantha,GJ05
+Bharuch,GJ06
+Bhavnagar,GJ07
+Botad,GJ08
+Chhotaudepur,GJ09
+Devbhumi Dwarka,GJ12
+Dohad,GJ10
+Gandhinagar,GJ13
+Gir Somnath,GJ14
+Jamnagar,GJ15
+Junagadh,GJ16
+Kachchh,GJ18
+Kheda,GJ17
+Mahesana,GJ20
+Mahisagar,GJ19
+Morbi,GJ21
+Narmada,GJ22
+Navsari,GJ23
+Panch Mahals,GJ24
+Patan,GJ25
+Porbandar,GJ26
+Rajkot,GJ27
+Sabar Kantha,GJ28
+Surat,GJ29
+Surendranagar,GJ30
+Tapi,GJ31
+The Dangs,GJ11
+Vadodara,GJ32
+Valsad,GJ33
+Ambala,HR01
+Bhiwani,HR02
+Charkhi Dadri,HR03
+Faridabad,HR04
+Fatehabad,HR05
+Gurugram,HR06
+Hisar,HR07
+Jhajjar,HR08
+Jind,HR09
+Kaithal,HR10
+Karnal,HR11
+Kurukshetra,HR12
+Mahendragarh,HR13
+Mewat,HR14
+Palwal,HR15
+Panchkula,HR16
+Panipat,HR17
+Rewari,HR18
+Rohtak,HR19
+Sirsa,HR20
+Sonipat,HR21
+Yamunanagar,HR22
+Bilaspur,HP01
+Chamba,HP02
+Hamirpur,HP03
+Kangra,HP04
+Kinnaur,HP05
+Kullu,HP06
+Lahul And Spiti,HP07
+Mandi,HP08
+Shimla,HP09
+Sirmaur,HP10
+Solan,HP11
+Una,HP12
+Anantnag,JK01
+Bandipore,JK02
+Baramulla,JK03
+Budgam,JK04
+Doda,JK05
+Ganderbal,JK06
+Jammu,JK07
+Kathua,JK08
+Kishtwar,JK09
+Kulgam,JK10
+Kupwara,JK11
+Mirpur,
+Muzaffarabad,
+Poonch,JK12
+Pulwama,JK13
+Rajouri,JK14
+Ramban,JK15
+Reasi,JK16
+Samba,JK17
+Shopian,JK18
+Srinagar,JK19
+Udhampur,JK20
+Bokaro,JH01
+Chatra,JH02
+Deoghar,JH03
+Dhanbad,JH04
+Dumka,JH05
+East Singhbhum,JH06
+Garhwa,JH07
+Giridih,JH08
+Godda,JH09
+Gumla,JH10
+Hazaribagh,JH11
+Jamtara,JH12
+Khunti,JH13
+Koderma,JH14
+Latehar,JH15
+Lohardaga,JH16
+Pakur,JH17
+Palamu,JH18
+Ramgarh,JH19
+Ranchi,JH20
+Sahebganj,JH21
+Saraikela Kharsawan,JH22
+Simdega,JH23
+West Singhbhum,JH24
+Bagalkote,KA01
+Ballari,KA02
+Belagavi,KA05
+Bengaluru Rural,KA03
+Bengaluru Urban,KA04
+Bidar,KA06
+Chamarajanagara,KA08
+Chikkaballapura,KA09
+Chikkamagaluru,KA10
+Chitradurga,KA11
+Dakshina Kannada,KA12
+Davanagere,KA13
+Dharwad,KA14
+Gadag,KA15
+Hassan,KA17
+Haveri,KA18
+Kalaburagi,KA16
+Kodagu,KA19
+Kolar,KA20
+Koppal,KA21
+Mandya,KA22
+Mysuru,KA23
+Raichur,KA24
+Ramanagara,KA25
+Shivamogga,KA26
+Tumakuru,KA27
+Udupi,KA28
+Uttara Kannada,KA29
+Vijayapura,KA07
+Yadgir,KA31
+Alappuzha,KL01
+Ernakulam,KL02
+Idukki,KL03
+Kannur,KL04
+Kasaragod,KL05
+Kollam,KL06
+Kottayam,KL07
+Kozhikode,KL08
+Malappuram,KL09
+Palakkad,KL10
+Pathanamthitta,KL11
+Thiruvananthapuram,KL12
+Thrissur,KL13
+Wayanad,KL14
+Kargil,LA01
+Leh Ladakh,LA02
+Lakshadweep,LD01
+Agar Malwa,MP01
+Alirajpur,MP02
+Anuppur,MP03
+Ashoknagar,MP04
+Balaghat,MP05
+Barwani,MP06
+Betul,MP07
+Bhind,MP08
+Bhopal,MP09
+Burhanpur,MP10
+Chhatarpur,MP12
+Chhindwara,MP13
+Damoh,MP14
+Datia,MP15
+Dewas,MP16
+Dhar,MP17
+Dindori,MP18
+East Nimar,MP27
+Guna,MP19
+Gwalior,MP20
+Harda,MP21
+Hoshangabad,MP22
+Indore,MP23
+Jabalpur,MP24
+Jhabua,MP25
+Katni,MP26
+Khargone,MP28
+Mandla,MP30
+Mandsaur,MP31
+Morena,MP32
+Narsinghpur,MP34
+Neemuch,MP35
+Niwari,MP36
+Panna,MP37
+Raisen,MP38
+Rajgarh,MP39
+Ratlam,MP40
+Rewa,MP41
+Sagar,MP42
+Satna,MP43
+Sehore,MP44
+Seoni,MP45
+Shahdol,MP46
+Shajapur,MP47
+Sheopur,MP48
+Shivpuri,MP49
+Sidhi,MP50
+Singrauli,MP51
+Tikamgarh,MP52
+Ujjain,MP53
+Umaria,MP54
+Vidisha,MP55
+Ahmednagar,MH01
+Akola,MH02
+Amravati,MH03
+Aurangabad,MH04
+Beed,MH05
+Bhandara,MH06
+Buldhana,MH07
+Chandrapur,MH08
+Dhule,MH09
+Gadchiroli,MH10
+Gondia,MH11
+Hingoli,MH12
+Jalgaon,MH13
+Jalna,MH14
+Kolhapur,MH15
+Latur,MH16
+Mumbai,MH17
+Mumbai Suburban,MH18
+Nagpur,MH19
+Nanded,MH20
+Nandurbar,MH21
+Nashik,MH22
+Osmanabad,MH23
+Palghar,MH24
+Parbhani,MH25
+Pune,MH26
+Raigad,MH27
+Ratnagiri,MH28
+Sangli,MH29
+Satara,MH30
+Sindhudurg,MH31
+Solapur,MH32
+Thane,MH33
+Wardha,MH34
+Washim,MH35
+Yavatmal,MH36
+Bishnupur,MN01
+Chandel,MN02
+Churachandpur,MN03
+Imphal East,MN04
+Imphal West,MN05
+Jiribam,MN06
+Kakching,MN07
+Kamjong,MN08
+Kangpokpi,MN09
+Noney,MN10
+Pherzawl,MN11
+Senapati,MN12
+Tamenglong,MN13
+Tengnoupal,MN14
+Thoubal,MN15
+Ukhrul,MN16
+East Garo Hills,ML01
+East Jaintia Hills,ML02
+East Khasi Hills,ML03
+North Garo Hills,ML04
+Ribhoi,ML05
+South Garo Hills,ML06
+South West Garo Hills,ML07
+South West Khasi Hills,ML08
+West Garo Hills,ML09
+West Jaintia Hills,ML10
+West Khasi Hills,ML11
+Aizawl,MZ01
+Champhai,MZ02
+Kolasib,MZ05
+Lawngtlai,MZ06
+Lunglei,MZ07
+Mamit,MZ08
+Saiha,MZ09
+Serchhip,MZ11
+Dimapur,NL01
+Kiphire,NL02
+Kohima,NL03
+Longleng,NL04
+Mokokchung,NL05
+Mon,NL06
+Peren,NL08
+Phek,NL09
+Tuensang,NL10
+Wokha,NL11
+Zunheboto,NL12
+Anugul,OR01
+Balangir,OR02
+Baleshwar,OR03
+Bargarh,OR04
+Bhadrak,OR05
+Boudh,OR06
+Cuttack,OR07
+Deogarh,OR08
+Dhenkanal,OR09
+Gajapati,OR10
+Ganjam,OR11
+Jagatsinghapur,OR12
+Jajapur,OR13
+Jharsuguda,OR14
+Kalahandi,OR15
+Kandhamal,OR16
+Kendrapara,OR17
+Kendujhar,OR18
+Khordha,OR19
+Koraput,OR20
+Malkangiri,OR21
+Mayurbhanj,OR22
+Nabarangpur,OR23
+Nayagarh,OR24
+Nuapada,OR25
+Puri,OR26
+Rayagada,OR27
+Sambalpur,OR28
+Sonepur,OR29
+Sundargarh,OR30
+Karaikal,PY01
+Mahe,PY02
+Puducherry,PY03
+Yanam,PY04
+Amritsar,PB01
+Barnala,PB02
+Bathinda,PB03
+Faridkot,PB04
+Fatehgarh Sahib,PB05
+Fazilka,PB06
+Firozepur,PB07
+Gurdaspur,PB08
+Hoshiarpur,PB09
+Jalandhar,PB10
+Kapurthala,PB11
+Ludhiana,PB12
+Mansa,PB14
+Moga,PB15
+Pathankot,PB16
+Patiala,PB17
+Rupnagar,PB18
+Sangrur,PB20
+Sas Nagar,PB19
+Shahid Bhagat Singh Nagar,PB21
+Sri Muktsar Sahib,PB22
+Tarn Taran,PB23
+Ajmer,RJ01
+Alwar,RJ02
+Banswara,RJ03
+Baran,RJ04
+Barmer,RJ05
+Bharatpur,RJ06
+Bhilwara,RJ07
+Bikaner,RJ08
+Bundi,RJ09
+Chittorgarh,RJ10
+Churu,RJ11
+Dausa,RJ12
+Dholpur,RJ13
+Dungarpur,RJ14
+Ganganagar,RJ31
+Hanumangarh,RJ15
+Jaipur,RJ16
+Jaisalmer,RJ17
+Jalore,RJ18
+Jhalawar,RJ19
+Jhunjhunu,RJ20
+Jodhpur,RJ21
+Karauli,RJ22
+Kota,RJ23
+Nagaur,RJ24
+Pali,RJ25
+Pratapgarh,RJ26
+Rajsamand,RJ27
+Sawai Madhopur,RJ28
+Sikar,RJ29
+Sirohi,RJ30
+Tonk,RJ32
+Udaipur,RJ33
+East,SK01
+North,SK02
+South,SK03
+West,SK04
+Ariyalur,TN01
+Chengalpattu,TN02
+Chennai,TN03
+Coimbatore,TN04
+Cuddalore,TN05
+Dharmapuri,TN06
+Dindigul,TN07
+Erode,TN08
+Kallakkurichi,TN09
+Kancheepuram,TN10
+Kanniyakumari,TN11
+Karur,TN12
+Krishnagiri,TN13
+Madurai,TN14
+Nagapattinam,TN16
+Namakkal,TN17
+Perambalur,TN19
+Pudukkottai,TN20
+Ramanathapuram,TN21
+Ranipet,TN22
+Salem,TN23
+Sivaganga,TN24
+Tenkasi,TN25
+Thanjavur,TN26
+The Nilgiris,TN18
+Theni,TN27
+Thiruvallur,TN33
+Thiruvarur,TN35
+Thoothukkudi,TN28
+Tiruchirappalli,TN29
+Tirunelveli,TN30
+Tirupathur,TN31
+Tiruppur,TN32
+Tiruvannamalai,TN34
+Vellore,TN36
+Viluppuram,TN37
+Virudhunagar,TN38
+Adilabad,TG01
+Bhadradri Kothagudem,TG02
+Hyderabad,TG03
+Jagtial,TG04
+Jangaon,TG05
+Jaya Shankar Bhalupally,TG06
+Jogulamba Gadwal,TG07
+Kamareddy,TG08
+Karimnagar,TG09
+Khammam,TG10
+Kumuram Bheem Asifabad,TG11
+Mahabubabad,TG12
+Mahbubnagar,TG13
+Mancherial,TG14
+Medak,TG15
+Medchal Malkajgiri,TG16
+Mulugu,TG17
+Nagarkurnool,TG18
+Nalgonda,TG19
+Narayanpet,TG20
+Nirmal,TG21
+Nizamabad,TG22
+Peddapalle,TG23
+Rajanna Sircilla,TG24
+Rangareddy,TG25
+Sangareddy,TG26
+Siddipet,TG27
+Suryapet,TG28
+Vikarabad,TG29
+Wanaparthy,TG30
+Warangal Rural,TG31
+Warangal Urban,TG32
+Yadadri Bhuvanagiri,TG33
+Dhalai,TR01
+Gomati,TR02
+Khowai,TR03
+North Tripura,TR04
+Sepahijala,TR05
+South Tripura,TR06
+Unakoti,TR07
+West Tripura,TR08
+Almora,UK01
+Bageshwar,UK02
+Chamoli,UK03
+Champawat,UK04
+Dehradun,UK05
+Haridwar,UK06
+Nainital,UK07
+Pauri Garhwal,UK08
+Pithoragarh,UK09
+Rudraprayag,UK10
+Tehri Garhwal,UK11
+Udham Singh Nagar,UK12
+Uttarkashi,UK13
+Agra,UP01
+Aligarh,UP02
+Ambedkar Nagar,UP04
+Amethi,UP05
+Amroha,UP06
+Auraiya,UP07
+Ayodhya,UP26
+Azamgarh,UP08
+Baghpat,UP09
+Bahraich,UP10
+Ballia,UP11
+Balrampur,UP12
+Banda,UP13
+Bara Banki,UP14
+Bareilly,UP15
+Basti,UP16
+Bhadohi,UP17
+Bijnor,UP18
+Budaun,UP19
+Bulandshahr,UP20
+Chandauli,UP21
+Chitrakoot,UP22
+Deoria,UP23
+Etah,UP24
+Etawah,UP25
+Farrukhabad,UP27
+Fatehpur,UP28
+Firozabad,UP29
+Gautam Buddha Nagar,UP30
+Ghaziabad,UP31
+Ghazipur,UP32
+Gonda,UP33
+Gorakhpur,UP34
+Hamirpur,UP35
+Hapur,UP36
+Hardoi,UP37
+Hathras,UP38
+Jalaun,UP39
+Jaunpur,UP40
+Jhansi,UP41
+Kannauj,UP42
+Kanpur Dehat,UP43
+Kanpur Nagar,UP44
+Kasganj,UP45
+Kaushambi,UP46
+Kheri,UP48
+Kushinagar,UP47
+Lalitpur,UP49
+Lucknow,UP50
+Maharajganj,UP51
+Mahoba,UP52
+Mainpuri,UP53
+Mathura,UP54
+Mau,UP55
+Meerut,UP56
+Mirzapur,UP57
+Moradabad,UP58
+Muzaffarnagar,UP59
+Pilibhit,UP60
+Pratapgarh,UP61
+Prayagraj,UP03
+Rae Bareli,UP62
+Rampur,UP63
+Saharanpur,UP64
+Sambhal,UP65
+Sant Kabeer Nagar,UP66
+Shahjahanpur,UP67
+Shamli,UP68
+Shravasti,UP69
+Siddharthnagar,UP70
+Sitapur,UP71
+Sonbhadra,UP72
+Sultanpur,UP73
+Unnao,UP74
+Varanasi,UP75
+Alipurduar,WB01
+Bankura,WB02
+Birbhum,WB03
+Dakshin Dinajpur,WB05
+Darjiling,WB06
+Hooghly,WB07
+Howrah,WB08
+Jalpaiguri,WB09
+Jhargram,WB10
+Kalimpong,WB11
+Koch Bihar,WB04
+Kolkata,WB12
+Maldah,WB13
+Murshidabad,WB14
+Nadia,WB15
+North Twenty Four Parganas,WB16
+Paschim Bardhaman,WB17
+Paschim Medinipur,WB18
+Purba Bardhaman,WB19
+Purba Medinipur,WB20
+Purulia,WB21
+South Twenty Four Parganas,WB22
+Uttar Dinajpur,WB23

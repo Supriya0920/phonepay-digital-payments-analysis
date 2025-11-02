@@ -1,0 +1,505 @@
+State,Period,Transaction Type,Transactions
+Andaman & Nicobar Islands,2018-Q1,Recharge & bill payments,4200
+Andaman & Nicobar Islands,2018-Q2,Recharge & bill payments,6735
+Andaman & Nicobar Islands,2018-Q3,Recharge & bill payments,8636
+Andaman & Nicobar Islands,2018-Q4,Recharge & bill payments,11517
+Andaman & Nicobar Islands,2019-Q1,Recharge & bill payments,15263
+Andaman & Nicobar Islands,2019-Q2,Recharge & bill payments,14676
+Andaman & Nicobar Islands,2019-Q3,Recharge & bill payments,16219
+Andaman & Nicobar Islands,2019-Q4,Peer-to-peer payments,18128
+Andaman & Nicobar Islands,2020-Q1,Peer-to-peer payments,18324
+Andaman & Nicobar Islands,2020-Q2,Recharge & bill payments,38125
+Andaman & Nicobar Islands,2020-Q3,Recharge & bill payments,59310
+Andaman & Nicobar Islands,2020-Q4,Peer-to-peer payments,81439
+Andaman & Nicobar Islands,2021-Q1,Peer-to-peer payments,105458
+Andaman & Nicobar Islands,2021-Q2,Peer-to-peer payments,132772
+Andhra Pradesh,2018-Q1,Recharge & bill payments,5027448
+Andhra Pradesh,2018-Q2,Recharge & bill payments,6456387
+Andhra Pradesh,2018-Q3,Peer-to-peer payments,16129591
+Andhra Pradesh,2018-Q4,Peer-to-peer payments,17580086
+Andhra Pradesh,2019-Q1,Peer-to-peer payments,37420988
+Andhra Pradesh,2019-Q2,Peer-to-peer payments,32494402
+Andhra Pradesh,2019-Q3,Peer-to-peer payments,39023491
+Andhra Pradesh,2019-Q4,Peer-to-peer payments,57181511
+Andhra Pradesh,2020-Q1,Peer-to-peer payments,65452143
+Andhra Pradesh,2020-Q2,Peer-to-peer payments,73609921
+Andhra Pradesh,2020-Q3,Peer-to-peer payments,106791894
+Andhra Pradesh,2020-Q4,Peer-to-peer payments,152003791
+Andhra Pradesh,2021-Q1,Peer-to-peer payments,149313738
+Andhra Pradesh,2021-Q2,Peer-to-peer payments,189614879
+Arunachal Pradesh,2018-Q1,Recharge & bill payments,28729
+Arunachal Pradesh,2018-Q2,Recharge & bill payments,50700
+Arunachal Pradesh,2018-Q3,Recharge & bill payments,74122
+Arunachal Pradesh,2018-Q4,Recharge & bill payments,97751
+Arunachal Pradesh,2019-Q1,Recharge & bill payments,121303
+Arunachal Pradesh,2019-Q2,Recharge & bill payments,131988
+Arunachal Pradesh,2019-Q3,Recharge & bill payments,216228
+Arunachal Pradesh,2019-Q4,Recharge & bill payments,259183
+Arunachal Pradesh,2020-Q1,Recharge & bill payments,329834
+Arunachal Pradesh,2020-Q2,Recharge & bill payments,522495
+Arunachal Pradesh,2020-Q3,Recharge & bill payments,514907
+Arunachal Pradesh,2020-Q4,Peer-to-peer payments,522019
+Arunachal Pradesh,2021-Q1,Peer-to-peer payments,566209
+Arunachal Pradesh,2021-Q2,Peer-to-peer payments,762946
+Assam,2018-Q1,Recharge & bill payments,632092
+Assam,2018-Q2,Recharge & bill payments,984160
+Assam,2018-Q3,Recharge & bill payments,1275136
+Assam,2018-Q4,Recharge & bill payments,1703488
+Assam,2019-Q1,Recharge & bill payments,1993220
+Assam,2019-Q2,Recharge & bill payments,2512932
+Assam,2019-Q3,Peer-to-peer payments,2713539
+Assam,2019-Q4,Peer-to-peer payments,3222143
+Assam,2020-Q1,Peer-to-peer payments,4058740
+Assam,2020-Q2,Recharge & bill payments,6045321
+Assam,2020-Q3,Peer-to-peer payments,5637893
+Assam,2020-Q4,Peer-to-peer payments,7538478
+Assam,2021-Q1,Peer-to-peer payments,9449096
+Assam,2021-Q2,Peer-to-peer payments,11668399
+Bihar,2018-Q1,Recharge & bill payments,3159922
+Bihar,2018-Q2,Recharge & bill payments,4346849
+Bihar,2018-Q3,Peer-to-peer payments,8893764
+Bihar,2018-Q4,Peer-to-peer payments,8094296
+Bihar,2019-Q1,Peer-to-peer payments,16807040
+Bihar,2019-Q2,Peer-to-peer payments,15837449
+Bihar,2019-Q3,Peer-to-peer payments,15446119
+Bihar,2019-Q4,Peer-to-peer payments,26337842
+Bihar,2020-Q1,Peer-to-peer payments,23163922
+Bihar,2020-Q2,Peer-to-peer payments,26572651
+Bihar,2020-Q3,Peer-to-peer payments,37294332
+Bihar,2020-Q4,Peer-to-peer payments,49432098
+Bihar,2021-Q1,Peer-to-peer payments,58566582
+Bihar,2021-Q2,Peer-to-peer payments,78694099
+Chandigarh,2018-Q1,Recharge & bill payments,201262
+Chandigarh,2018-Q2,Recharge & bill payments,224548
+Chandigarh,2018-Q3,Peer-to-peer payments,295358
+Chandigarh,2018-Q4,Peer-to-peer payments,431461
+Chandigarh,2019-Q1,Peer-to-peer payments,689400
+Chandigarh,2019-Q2,Peer-to-peer payments,604849
+Chandigarh,2019-Q3,Peer-to-peer payments,722233
+Chandigarh,2019-Q4,Peer-to-peer payments,927850
+Chandigarh,2020-Q1,Peer-to-peer payments,1087401
+Chandigarh,2020-Q2,Peer-to-peer payments,766698
+Chandigarh,2020-Q3,Peer-to-peer payments,981986
+Chandigarh,2020-Q4,Merchant payments,1322026
+Chandigarh,2021-Q1,Merchant payments,1799072
+Chandigarh,2021-Q2,Merchant payments,1926913
+Chhattisgarh,2018-Q1,Recharge & bill payments,1177618
+Chhattisgarh,2018-Q2,Recharge & bill payments,1643461
+Chhattisgarh,2018-Q3,Recharge & bill payments,1911374
+Chhattisgarh,2018-Q4,Recharge & bill payments,2438959
+Chhattisgarh,2019-Q1,Peer-to-peer payments,4068056
+Chhattisgarh,2019-Q2,Peer-to-peer payments,4350167
+Chhattisgarh,2019-Q3,Peer-to-peer payments,5021844
+Chhattisgarh,2019-Q4,Peer-to-peer payments,7241974
+Chhattisgarh,2020-Q1,Peer-to-peer payments,8109789
+Chhattisgarh,2020-Q2,Recharge & bill payments,8366200
+Chhattisgarh,2020-Q3,Peer-to-peer payments,9734445
+Chhattisgarh,2020-Q4,Peer-to-peer payments,14257312
+Chhattisgarh,2021-Q1,Peer-to-peer payments,15621154
+Chhattisgarh,2021-Q2,Peer-to-peer payments,18387345
+Dadra & Nagar Haveli and Daman & Diu,2018-Q1,Recharge & bill payments,95544
+Dadra & Nagar Haveli and Daman & Diu,2018-Q2,Recharge & bill payments,122834
+Dadra & Nagar Haveli and Daman & Diu,2018-Q3,Recharge & bill payments,157113
+Dadra & Nagar Haveli and Daman & Diu,2018-Q4,Peer-to-peer payments,194214
+Dadra & Nagar Haveli and Daman & Diu,2019-Q1,Peer-to-peer payments,408465
+Dadra & Nagar Haveli and Daman & Diu,2019-Q2,Peer-to-peer payments,244134
+Dadra & Nagar Haveli and Daman & Diu,2019-Q3,Recharge & bill payments,319142
+Dadra & Nagar Haveli and Daman & Diu,2019-Q4,Recharge & bill payments,351819
+Dadra & Nagar Haveli and Daman & Diu,2020-Q1,Recharge & bill payments,407577
+Dadra & Nagar Haveli and Daman & Diu,2020-Q2,Recharge & bill payments,525974
+Dadra & Nagar Haveli and Daman & Diu,2020-Q3,Recharge & bill payments,455603
+Dadra & Nagar Haveli and Daman & Diu,2020-Q4,Peer-to-peer payments,666995
+Dadra & Nagar Haveli and Daman & Diu,2021-Q1,Peer-to-peer payments,768921
+Dadra & Nagar Haveli and Daman & Diu,2021-Q2,Peer-to-peer payments,843550
+Delhi,2018-Q1,Recharge & bill payments,3947297
+Delhi,2018-Q2,Recharge & bill payments,4511737
+Delhi,2018-Q3,Peer-to-peer payments,8557153
+Delhi,2018-Q4,Peer-to-peer payments,9973249
+Delhi,2019-Q1,Peer-to-peer payments,20216287
+Delhi,2019-Q2,Merchant payments,20891431
+Delhi,2019-Q3,Merchant payments,29453368
+Delhi,2019-Q4,Peer-to-peer payments,33040093
+Delhi,2020-Q1,Merchant payments,33951545
+Delhi,2020-Q2,Peer-to-peer payments,27155938
+Delhi,2020-Q3,Peer-to-peer payments,41498638
+Delhi,2020-Q4,Merchant payments,54581166
+Delhi,2021-Q1,Merchant payments,72615587
+Delhi,2021-Q2,Merchant payments,75620295
+Goa,2018-Q1,Recharge & bill payments,85991
+Goa,2018-Q2,Recharge & bill payments,120943
+Goa,2018-Q3,Recharge & bill payments,158797
+Goa,2018-Q4,Peer-to-peer payments,246426
+Goa,2019-Q1,Peer-to-peer payments,378848
+Goa,2019-Q2,Peer-to-peer payments,373759
+Goa,2019-Q3,Peer-to-peer payments,475178
+Goa,2019-Q4,Peer-to-peer payments,698728
+Goa,2020-Q1,Peer-to-peer payments,817198
+Goa,2020-Q2,Recharge & bill payments,758617
+Goa,2020-Q3,Peer-to-peer payments,759351
+Goa,2020-Q4,Peer-to-peer payments,1550251
+Goa,2021-Q1,Peer-to-peer payments,2235456
+Goa,2021-Q2,Merchant payments,1869384
+Gujarat,2018-Q1,Recharge & bill payments,3691952
+Gujarat,2018-Q2,Recharge & bill payments,4643367
+Gujarat,2018-Q3,Peer-to-peer payments,5287200
+Gujarat,2018-Q4,Peer-to-peer payments,6488202
+Gujarat,2019-Q1,Peer-to-peer payments,13465044
+Gujarat,2019-Q2,Peer-to-peer payments,12547493
+Gujarat,2019-Q3,Peer-to-peer payments,14529353
+Gujarat,2019-Q4,Peer-to-peer payments,19107911
+Gujarat,2020-Q1,Peer-to-peer payments,19068093
+Gujarat,2020-Q2,Recharge & bill payments,19971660
+Gujarat,2020-Q3,Peer-to-peer payments,23130724
+Gujarat,2020-Q4,Peer-to-peer payments,29967258
+Gujarat,2021-Q1,Peer-to-peer payments,36427493
+Gujarat,2021-Q2,Merchant payments,42593432
+Haryana,2018-Q1,Recharge & bill payments,2368002
+Haryana,2018-Q2,Recharge & bill payments,3054284
+Haryana,2018-Q3,Peer-to-peer payments,3753981
+Haryana,2018-Q4,Peer-to-peer payments,5905032
+Haryana,2019-Q1,Peer-to-peer payments,12622225
+Haryana,2019-Q2,Peer-to-peer payments,10387562
+Haryana,2019-Q3,Peer-to-peer payments,11775288
+Haryana,2019-Q4,Peer-to-peer payments,15729819
+Haryana,2020-Q1,Peer-to-peer payments,17728235
+Haryana,2020-Q2,Peer-to-peer payments,17334369
+Haryana,2020-Q3,Peer-to-peer payments,24123449
+Haryana,2020-Q4,Merchant payments,34063692
+Haryana,2021-Q1,Merchant payments,39363588
+Haryana,2021-Q2,Merchant payments,45335533
+Himachal Pradesh,2018-Q1,Recharge & bill payments,284371
+Himachal Pradesh,2018-Q2,Recharge & bill payments,385642
+Himachal Pradesh,2018-Q3,Recharge & bill payments,457449
+Himachal Pradesh,2018-Q4,Recharge & bill payments,598325
+Himachal Pradesh,2019-Q1,Peer-to-peer payments,1178280
+Himachal Pradesh,2019-Q2,Peer-to-peer payments,1141873
+Himachal Pradesh,2019-Q3,Recharge & bill payments,1212659
+Himachal Pradesh,2019-Q4,Peer-to-peer payments,1579582
+Himachal Pradesh,2020-Q1,Recharge & bill payments,1815157
+Himachal Pradesh,2020-Q2,Recharge & bill payments,2558935
+Himachal Pradesh,2020-Q3,Recharge & bill payments,2416395
+Himachal Pradesh,2020-Q4,Recharge & bill payments,2638030
+Himachal Pradesh,2021-Q1,Peer-to-peer payments,2845733
+Himachal Pradesh,2021-Q2,Peer-to-peer payments,3340531
+Jammu & Kashmir,2018-Q1,Recharge & bill payments,457813
+Jammu & Kashmir,2018-Q2,Recharge & bill payments,794502
+Jammu & Kashmir,2018-Q3,Peer-to-peer payments,1260453
+Jammu & Kashmir,2018-Q4,Peer-to-peer payments,1265457
+Jammu & Kashmir,2019-Q1,Peer-to-peer payments,1913720
+Jammu & Kashmir,2019-Q2,Peer-to-peer payments,1180781
+Jammu & Kashmir,2019-Q3,Peer-to-peer payments,618694
+Jammu & Kashmir,2019-Q4,Peer-to-peer payments,310620
+Jammu & Kashmir,2020-Q1,Peer-to-peer payments,435154
+Jammu & Kashmir,2020-Q2,Peer-to-peer payments,1238380
+Jammu & Kashmir,2020-Q3,Peer-to-peer payments,1787154
+Jammu & Kashmir,2020-Q4,Peer-to-peer payments,2378539
+Jammu & Kashmir,2021-Q1,Peer-to-peer payments,2800201
+Jammu & Kashmir,2021-Q2,Peer-to-peer payments,3955437
+Jharkhand,2018-Q1,Recharge & bill payments,1095857
+Jharkhand,2018-Q2,Recharge & bill payments,1398777
+Jharkhand,2018-Q3,Peer-to-peer payments,6003688
+Jharkhand,2018-Q4,Peer-to-peer payments,3325473
+Jharkhand,2019-Q1,Peer-to-peer payments,5952105
+Jharkhand,2019-Q2,Peer-to-peer payments,5155937
+Jharkhand,2019-Q3,Peer-to-peer payments,5708187
+Jharkhand,2019-Q4,Peer-to-peer payments,10301226
+Jharkhand,2020-Q1,Peer-to-peer payments,8196850
+Jharkhand,2020-Q2,Peer-to-peer payments,8724053
+Jharkhand,2020-Q3,Peer-to-peer payments,11984094
+Jharkhand,2020-Q4,Peer-to-peer payments,17120664
+Jharkhand,2021-Q1,Peer-to-peer payments,19151083
+Jharkhand,2021-Q2,Peer-to-peer payments,24184568
+Karnataka,2018-Q1,Recharge & bill payments,5785292
+Karnataka,2018-Q2,Recharge & bill payments,7391926
+Karnataka,2018-Q3,Peer-to-peer payments,12863507
+Karnataka,2018-Q4,Peer-to-peer payments,20471744
+Karnataka,2019-Q1,Peer-to-peer payments,44049036
+Karnataka,2019-Q2,Peer-to-peer payments,50033334
+Karnataka,2019-Q3,Merchant payments,76924325
+Karnataka,2019-Q4,Merchant payments,114044901
+Karnataka,2020-Q1,Merchant payments,132970737
+Karnataka,2020-Q2,Merchant payments,87251639
+Karnataka,2020-Q3,Merchant payments,137206600
+Karnataka,2020-Q4,Merchant payments,215711211
+Karnataka,2021-Q1,Merchant payments,279599017
+Karnataka,2021-Q2,Merchant payments,244460862
+Kerala,2018-Q1,Recharge & bill payments,988774
+Kerala,2018-Q2,Recharge & bill payments,1230869
+Kerala,2018-Q3,Peer-to-peer payments,1425259
+Kerala,2018-Q4,Peer-to-peer payments,2073960
+Kerala,2019-Q1,Peer-to-peer payments,3601116
+Kerala,2019-Q2,Peer-to-peer payments,3519528
+Kerala,2019-Q3,Peer-to-peer payments,4181954
+Kerala,2019-Q4,Peer-to-peer payments,5859068
+Kerala,2020-Q1,Peer-to-peer payments,6634439
+Kerala,2020-Q2,Recharge & bill payments,7709714
+Kerala,2020-Q3,Peer-to-peer payments,8590587
+Kerala,2020-Q4,Peer-to-peer payments,12941135
+Kerala,2021-Q1,Peer-to-peer payments,16209203
+Kerala,2021-Q2,Peer-to-peer payments,17026648
+Ladakh,2018-Q1,Recharge & bill payments,3550
+Ladakh,2018-Q2,Recharge & bill payments,8075
+Ladakh,2018-Q3,Recharge & bill payments,13136
+Ladakh,2018-Q4,Recharge & bill payments,16650
+Ladakh,2019-Q1,Peer-to-peer payments,22076
+Ladakh,2019-Q2,Peer-to-peer payments,34202
+Ladakh,2019-Q3,Peer-to-peer payments,43198
+Ladakh,2019-Q4,Peer-to-peer payments,42095
+Ladakh,2020-Q1,Peer-to-peer payments,51560
+Ladakh,2020-Q2,Recharge & bill payments,70601
+Ladakh,2020-Q3,Peer-to-peer payments,108345
+Ladakh,2020-Q4,Peer-to-peer payments,151582
+Ladakh,2021-Q1,Peer-to-peer payments,141894
+Ladakh,2021-Q2,Peer-to-peer payments,209818
+Lakshadweep,2018-Q1,Peer-to-peer payments,423
+Lakshadweep,2018-Q2,Peer-to-peer payments,1315
+Lakshadweep,2018-Q3,Peer-to-peer payments,841
+Lakshadweep,2018-Q4,Recharge & bill payments,792
+Lakshadweep,2019-Q1,Peer-to-peer payments,1183
+Lakshadweep,2019-Q2,Recharge & bill payments,1448
+Lakshadweep,2019-Q3,Recharge & bill payments,1528
+Lakshadweep,2019-Q4,Recharge & bill payments,1801
+Lakshadweep,2020-Q1,Recharge & bill payments,2684
+Lakshadweep,2020-Q2,Recharge & bill payments,4497
+Lakshadweep,2020-Q3,Recharge & bill payments,4696
+Lakshadweep,2020-Q4,Recharge & bill payments,5187
+Lakshadweep,2021-Q1,Peer-to-peer payments,3942
+Lakshadweep,2021-Q2,Recharge & bill payments,5499
+Madhya Pradesh,2018-Q1,Recharge & bill payments,4404190
+Madhya Pradesh,2018-Q2,Recharge & bill payments,5324535
+Madhya Pradesh,2018-Q3,Peer-to-peer payments,9988509
+Madhya Pradesh,2018-Q4,Peer-to-peer payments,11456555
+Madhya Pradesh,2019-Q1,Peer-to-peer payments,23708825
+Madhya Pradesh,2019-Q2,Peer-to-peer payments,20868744
+Madhya Pradesh,2019-Q3,Peer-to-peer payments,22631038
+Madhya Pradesh,2019-Q4,Peer-to-peer payments,32083162
+Madhya Pradesh,2020-Q1,Peer-to-peer payments,34540722
+Madhya Pradesh,2020-Q2,Peer-to-peer payments,34860958
+Madhya Pradesh,2020-Q3,Peer-to-peer payments,50871564
+Madhya Pradesh,2020-Q4,Peer-to-peer payments,67972167
+Madhya Pradesh,2021-Q1,Merchant payments,84812245
+Madhya Pradesh,2021-Q2,Peer-to-peer payments,99367521
+Maharashtra,2018-Q1,Recharge & bill payments,9670237
+Maharashtra,2018-Q2,Recharge & bill payments,12384216
+Maharashtra,2018-Q3,Recharge & bill payments,14371791
+Maharashtra,2018-Q4,Peer-to-peer payments,20824667
+Maharashtra,2019-Q1,Peer-to-peer payments,37360716
+Maharashtra,2019-Q2,Peer-to-peer payments,42546317
+Maharashtra,2019-Q3,Peer-to-peer payments,57991699
+Maharashtra,2019-Q4,Merchant payments,80127804
+Maharashtra,2020-Q1,Merchant payments,100337738
+Maharashtra,2020-Q2,Peer-to-peer payments,74295930
+Maharashtra,2020-Q3,Peer-to-peer payments,108436214
+Maharashtra,2020-Q4,Merchant payments,189845640
+Maharashtra,2021-Q1,Merchant payments,253043309
+Maharashtra,2021-Q2,Merchant payments,247194293
+Manipur,2018-Q1,Recharge & bill payments,50212
+Manipur,2018-Q2,Recharge & bill payments,77991
+Manipur,2018-Q3,Peer-to-peer payments,95204
+Manipur,2018-Q4,Recharge & bill payments,113507
+Manipur,2019-Q1,Peer-to-peer payments,127067
+Manipur,2019-Q2,Peer-to-peer payments,120153
+Manipur,2019-Q3,Recharge & bill payments,180057
+Manipur,2019-Q4,Recharge & bill payments,212136
+Manipur,2020-Q1,Peer-to-peer payments,451733
+Manipur,2020-Q2,Peer-to-peer payments,533206
+Manipur,2020-Q3,Peer-to-peer payments,774786
+Manipur,2020-Q4,Peer-to-peer payments,892853
+Manipur,2021-Q1,Peer-to-peer payments,1117829
+Manipur,2021-Q2,Peer-to-peer payments,1372821
+Meghalaya,2018-Q1,Recharge & bill payments,31857
+Meghalaya,2018-Q2,Recharge & bill payments,42625
+Meghalaya,2018-Q3,Recharge & bill payments,60625
+Meghalaya,2018-Q4,Recharge & bill payments,82962
+Meghalaya,2019-Q1,Recharge & bill payments,98817
+Meghalaya,2019-Q2,Recharge & bill payments,108812
+Meghalaya,2019-Q3,Recharge & bill payments,155949
+Meghalaya,2019-Q4,Recharge & bill payments,175084
+Meghalaya,2020-Q1,Recharge & bill payments,226214
+Meghalaya,2020-Q2,Recharge & bill payments,382662
+Meghalaya,2020-Q3,Recharge & bill payments,342484
+Meghalaya,2020-Q4,Recharge & bill payments,350006
+Meghalaya,2021-Q1,Peer-to-peer payments,326993
+Meghalaya,2021-Q2,Recharge & bill payments,389959
+Mizoram,2018-Q1,Recharge & bill payments,10155
+Mizoram,2018-Q2,Recharge & bill payments,13550
+Mizoram,2018-Q3,Peer-to-peer payments,18564
+Mizoram,2018-Q4,Peer-to-peer payments,26212
+Mizoram,2019-Q1,Peer-to-peer payments,35126
+Mizoram,2019-Q2,Peer-to-peer payments,37364
+Mizoram,2019-Q3,Recharge & bill payments,49073
+Mizoram,2019-Q4,Recharge & bill payments,60511
+Mizoram,2020-Q1,Recharge & bill payments,85067
+Mizoram,2020-Q2,Recharge & bill payments,127592
+Mizoram,2020-Q3,Recharge & bill payments,132664
+Mizoram,2020-Q4,Peer-to-peer payments,141038
+Mizoram,2021-Q1,Peer-to-peer payments,156386
+Mizoram,2021-Q2,Peer-to-peer payments,173064
+Nagaland,2018-Q1,Recharge & bill payments,28198
+Nagaland,2018-Q2,Recharge & bill payments,41959
+Nagaland,2018-Q3,Recharge & bill payments,54885
+Nagaland,2018-Q4,Recharge & bill payments,72881
+Nagaland,2019-Q1,Recharge & bill payments,87596
+Nagaland,2019-Q2,Recharge & bill payments,92492
+Nagaland,2019-Q3,Recharge & bill payments,145812
+Nagaland,2019-Q4,Recharge & bill payments,172761
+Nagaland,2020-Q1,Recharge & bill payments,221741
+Nagaland,2020-Q2,Recharge & bill payments,328269
+Nagaland,2020-Q3,Recharge & bill payments,347494
+Nagaland,2020-Q4,Peer-to-peer payments,417393
+Nagaland,2021-Q1,Peer-to-peer payments,477346
+Nagaland,2021-Q2,Peer-to-peer payments,526966
+Odisha,2018-Q1,Recharge & bill payments,2874109
+Odisha,2018-Q2,Peer-to-peer payments,3989202
+Odisha,2018-Q3,Peer-to-peer payments,24472139
+Odisha,2018-Q4,Peer-to-peer payments,12285028
+Odisha,2019-Q1,Peer-to-peer payments,24117274
+Odisha,2019-Q2,Peer-to-peer payments,16455353
+Odisha,2019-Q3,Peer-to-peer payments,18490877
+Odisha,2019-Q4,Peer-to-peer payments,43284477
+Odisha,2020-Q1,Peer-to-peer payments,27110930
+Odisha,2020-Q2,Peer-to-peer payments,24520938
+Odisha,2020-Q3,Peer-to-peer payments,34182172
+Odisha,2020-Q4,Peer-to-peer payments,47588728
+Odisha,2021-Q1,Peer-to-peer payments,54417515
+Odisha,2021-Q2,Peer-to-peer payments,66929109
+Puducherry,2018-Q1,Recharge & bill payments,53125
+Puducherry,2018-Q2,Recharge & bill payments,59867
+Puducherry,2018-Q3,Peer-to-peer payments,101817
+Puducherry,2018-Q4,Peer-to-peer payments,173170
+Puducherry,2019-Q1,Peer-to-peer payments,313822
+Puducherry,2019-Q2,Peer-to-peer payments,331248
+Puducherry,2019-Q3,Peer-to-peer payments,394866
+Puducherry,2019-Q4,Peer-to-peer payments,559670
+Puducherry,2020-Q1,Peer-to-peer payments,600290
+Puducherry,2020-Q2,Peer-to-peer payments,468789
+Puducherry,2020-Q3,Peer-to-peer payments,855511
+Puducherry,2020-Q4,Peer-to-peer payments,1211359
+Puducherry,2021-Q1,Peer-to-peer payments,1406958
+Puducherry,2021-Q2,Peer-to-peer payments,1581221
+Punjab,2018-Q1,Recharge & bill payments,946338
+Punjab,2018-Q2,Recharge & bill payments,1262450
+Punjab,2018-Q3,Peer-to-peer payments,1684209
+Punjab,2018-Q4,Peer-to-peer payments,2269375
+Punjab,2019-Q1,Peer-to-peer payments,4026294
+Punjab,2019-Q2,Peer-to-peer payments,4140474
+Punjab,2019-Q3,Peer-to-peer payments,4726946
+Punjab,2019-Q4,Peer-to-peer payments,6386367
+Punjab,2020-Q1,Peer-to-peer payments,6339183
+Punjab,2020-Q2,Recharge & bill payments,6064807
+Punjab,2020-Q3,Peer-to-peer payments,7354451
+Punjab,2020-Q4,Peer-to-peer payments,9609405
+Punjab,2021-Q1,Peer-to-peer payments,10951083
+Punjab,2021-Q2,Peer-to-peer payments,13180933
+Rajasthan,2018-Q1,Recharge & bill payments,4305940
+Rajasthan,2018-Q2,Recharge & bill payments,5288093
+Rajasthan,2018-Q3,Peer-to-peer payments,7120792
+Rajasthan,2018-Q4,Peer-to-peer payments,10752729
+Rajasthan,2019-Q1,Peer-to-peer payments,27621606
+Rajasthan,2019-Q2,Peer-to-peer payments,25257679
+Rajasthan,2019-Q3,Peer-to-peer payments,29885618
+Rajasthan,2019-Q4,Peer-to-peer payments,43354317
+Rajasthan,2020-Q1,Peer-to-peer payments,48269912
+Rajasthan,2020-Q2,Peer-to-peer payments,49160792
+Rajasthan,2020-Q3,Peer-to-peer payments,73247856
+Rajasthan,2020-Q4,Peer-to-peer payments,88730951
+Rajasthan,2021-Q1,Peer-to-peer payments,116733195
+Rajasthan,2021-Q2,Peer-to-peer payments,139277445
+Sikkim,2018-Q1,Recharge & bill payments,26965
+Sikkim,2018-Q2,Recharge & bill payments,45435
+Sikkim,2018-Q3,Recharge & bill payments,58421
+Sikkim,2018-Q4,Recharge & bill payments,79232
+Sikkim,2019-Q1,Peer-to-peer payments,121984
+Sikkim,2019-Q2,Peer-to-peer payments,172125
+Sikkim,2019-Q3,Peer-to-peer payments,203052
+Sikkim,2019-Q4,Peer-to-peer payments,508471
+Sikkim,2020-Q1,Peer-to-peer payments,230413
+Sikkim,2020-Q2,Recharge & bill payments,297620
+Sikkim,2020-Q3,Recharge & bill payments,298885
+Sikkim,2020-Q4,Peer-to-peer payments,334069
+Sikkim,2021-Q1,Peer-to-peer payments,403703
+Sikkim,2021-Q2,Peer-to-peer payments,473141
+Tamil Nadu,2018-Q1,Recharge & bill payments,3308548
+Tamil Nadu,2018-Q2,Recharge & bill payments,4464677
+Tamil Nadu,2018-Q3,Peer-to-peer payments,8810836
+Tamil Nadu,2018-Q4,Peer-to-peer payments,11538547
+Tamil Nadu,2019-Q1,Peer-to-peer payments,18645926
+Tamil Nadu,2019-Q2,Peer-to-peer payments,16952961
+Tamil Nadu,2019-Q3,Peer-to-peer payments,21277636
+Tamil Nadu,2019-Q4,Peer-to-peer payments,28814008
+Tamil Nadu,2020-Q1,Peer-to-peer payments,30880360
+Tamil Nadu,2020-Q2,Peer-to-peer payments,21700844
+Tamil Nadu,2020-Q3,Peer-to-peer payments,31754077
+Tamil Nadu,2020-Q4,Peer-to-peer payments,47800741
+Tamil Nadu,2021-Q1,Peer-to-peer payments,57446279
+Tamil Nadu,2021-Q2,Peer-to-peer payments,60812902
+Telangana,2018-Q1,Recharge & bill payments,4209319
+Telangana,2018-Q2,Peer-to-peer payments,4784079
+Telangana,2018-Q3,Peer-to-peer payments,11560952
+Telangana,2018-Q4,Peer-to-peer payments,15571288
+Telangana,2019-Q1,Peer-to-peer payments,40488967
+Telangana,2019-Q2,Peer-to-peer payments,46741594
+Telangana,2019-Q3,Peer-to-peer payments,59981113
+Telangana,2019-Q4,Peer-to-peer payments,82587060
+Telangana,2020-Q1,Peer-to-peer payments,95668911
+Telangana,2020-Q2,Peer-to-peer payments,76683293
+Telangana,2020-Q3,Peer-to-peer payments,116668399
+Telangana,2020-Q4,Peer-to-peer payments,160607487
+Telangana,2021-Q1,Merchant payments,185230619
+Telangana,2021-Q2,Peer-to-peer payments,230861833
+Tripura,2018-Q1,Recharge & bill payments,86819
+Tripura,2018-Q2,Recharge & bill payments,118171
+Tripura,2018-Q3,Peer-to-peer payments,186065
+Tripura,2018-Q4,Recharge & bill payments,204720
+Tripura,2019-Q1,Peer-to-peer payments,296993
+Tripura,2019-Q2,Peer-to-peer payments,240776
+Tripura,2019-Q3,Recharge & bill payments,339539
+Tripura,2019-Q4,Recharge & bill payments,373779
+Tripura,2020-Q1,Recharge & bill payments,449584
+Tripura,2020-Q2,Recharge & bill payments,600206
+Tripura,2020-Q3,Recharge & bill payments,627363
+Tripura,2020-Q4,Peer-to-peer payments,650386
+Tripura,2021-Q1,Peer-to-peer payments,643366
+Tripura,2021-Q2,Peer-to-peer payments,703728
+Uttar Pradesh,2018-Q1,Recharge & bill payments,7003704
+Uttar Pradesh,2018-Q2,Recharge & bill payments,9232131
+Uttar Pradesh,2018-Q3,Peer-to-peer payments,13828768
+Uttar Pradesh,2018-Q4,Peer-to-peer payments,15804910
+Uttar Pradesh,2019-Q1,Peer-to-peer payments,32062452
+Uttar Pradesh,2019-Q2,Peer-to-peer payments,27105049
+Uttar Pradesh,2019-Q3,Peer-to-peer payments,26990786
+Uttar Pradesh,2019-Q4,Peer-to-peer payments,40540310
+Uttar Pradesh,2020-Q1,Peer-to-peer payments,39581157
+Uttar Pradesh,2020-Q2,Recharge & bill payments,42229417
+Uttar Pradesh,2020-Q3,Peer-to-peer payments,54449911
+Uttar Pradesh,2020-Q4,Peer-to-peer payments,75433782
+Uttar Pradesh,2021-Q1,Peer-to-peer payments,85539321
+Uttar Pradesh,2021-Q2,Peer-to-peer payments,102927942
+Uttarakhand,2018-Q1,Recharge & bill payments,730428
+Uttarakhand,2018-Q2,Recharge & bill payments,946332
+Uttarakhand,2018-Q3,Peer-to-peer payments,1049725
+Uttarakhand,2018-Q4,Peer-to-peer payments,1556731
+Uttarakhand,2019-Q1,Peer-to-peer payments,3499130
+Uttarakhand,2019-Q2,Peer-to-peer payments,2383662
+Uttarakhand,2019-Q3,Peer-to-peer payments,2313544
+Uttarakhand,2019-Q4,Peer-to-peer payments,3210116
+Uttarakhand,2020-Q1,Peer-to-peer payments,3792776
+Uttarakhand,2020-Q2,Recharge & bill payments,3755695
+Uttarakhand,2020-Q3,Peer-to-peer payments,4836512
+Uttarakhand,2020-Q4,Peer-to-peer payments,6748183
+Uttarakhand,2021-Q1,Merchant payments,8393767
+Uttarakhand,2021-Q2,Peer-to-peer payments,9374939
+West Bengal,2018-Q1,Recharge & bill payments,5773831
+West Bengal,2018-Q2,Peer-to-peer payments,8284944
+West Bengal,2018-Q3,Peer-to-peer payments,41882429
+West Bengal,2018-Q4,Peer-to-peer payments,17154995
+West Bengal,2019-Q1,Peer-to-peer payments,27374206
+West Bengal,2019-Q2,Peer-to-peer payments,20285958
+West Bengal,2019-Q3,Merchant payments,30804036
+West Bengal,2019-Q4,Peer-to-peer payments,67037576
+West Bengal,2020-Q1,Peer-to-peer payments,28457404
+West Bengal,2020-Q2,Peer-to-peer payments,24855687
+West Bengal,2020-Q3,Peer-to-peer payments,37556349
+West Bengal,2020-Q4,Peer-to-peer payments,46437233
+West Bengal,2021-Q1,Peer-to-peer payments,53869075
+West Bengal,2021-Q2,Peer-to-peer payments,64661051
